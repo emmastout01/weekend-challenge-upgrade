@@ -1,0 +1,20 @@
+input {
+  display: block;
+}
+
+td, h1, span {
+  font-family: 'Trebuchet MS', Helvetica , sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+button {
+  margin: 10px;
+}
+
+.monthly-spending-div {
+  height: 40px;
+  background-color: plum;
+}
